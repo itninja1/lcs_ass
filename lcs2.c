@@ -37,7 +37,6 @@ int lcs2(int *a, int n,  int *b, int m) {
 		}
 		printf("\n");
 	}
-	//write your code here
 	return lcs[n][m];
 }
 
